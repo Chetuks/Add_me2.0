@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_page_drawer.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\menu\\activity_home_page_drawer.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_page.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\menu\\home_page.xml"
+    }
+]

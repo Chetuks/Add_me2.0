@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\raw\\om_namah_shivay_om.mp3",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\raw\\om_namah_shivay_om.mp3"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gayatri_mantra.mp3",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\raw\\gayatri_mantra.mp3"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ganpati_mantra.mp3",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\raw\\ganpati_mantra.mp3"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarm_sms.mp3",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\raw\\alarm_sms.mp3"
+    }
+]

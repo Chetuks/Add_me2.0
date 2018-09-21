@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">300</integer>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <string name="ga_trackingId">UA-68774110-1</string>
+    <!--<string name="ga_trackingId">UA-68767774-1</string>-->
+    <string name="ga_sampleFrequncey">100.0</string>
+    <bool name="ga_reportUncaughtException">true</bool>
+    <string name="ga_appName">Anand guruji</string>
+    <string name="ga_appVersion">1.5</string>
+    <!-- <screenName name="com.mahiti.ypo.activities.SliderView">Home Screen</screenName>
+     <screenName name="com.mahiti.ypo.activities.AttendeesActivity">Attendees Activity</screenName>
+     <screenName name="com.mahiti.ypo.activities.BoardActivity">Board Activity</screenName>
+     <screenName name="com.mahiti.ypo.activities.ChangePasswordActivity">Change Password Activity</screenName>
+     <screenName name="com.mahiti.ypo.activities.EventPlaceHolderText">Event PlaceHolderText</screenName>
+     <screenName name="com.mahiti.ypo.activities.HomeActivity">Home Activity</screenName>
+     <screenName name="com.mahiti.ypo.activities.ProfileActivity">Profile Activity</screenName>
+     <screenName name="com.mahiti.ypo.activities.splashActivity">splash Activity</screenName>
+     <screenName name="com.mahiti.ypo.activities.WhatsNewDetailsFragment">WhatsNewDetailsFragment</screenName>
+     <screenName name="com.mahiti.ypo.fragments.ProfileFragment">Profile Fragment</screenName>
+     <screenName name="com.mahiti.ypo.fragments.EventsListingFragment">EventsListing Fragment</screenName>
+     <screenName name="com.mahiti.ypo.fragments.MemebersListingFragment">Memebers Listing Fragment</screenName>
+     <screenName name="com.mahiti.ypo.fragments.WhatsnewListFragment">WhatsnewList Fragment</screenName>-->
+</resources>

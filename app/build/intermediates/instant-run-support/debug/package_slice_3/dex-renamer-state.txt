@@ -1,0 +1,4 @@
+#Thu Sep 20 12:28:50 IST 2018
+base.0=D\:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\516
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Settings"
+        android:visible="false" />
+    <item
+        android:id="@+id/menu_alarm"
+        android:title="Set Alarm"
+        android:visible="false" />
+    <item
+        android:id="@+id/menu_tone"
+        android:title="Show Tones"
+        android:visible="false" />
+    <item
+        android:id="@+id/customer_profile"
+        android:title="Customer Profile"
+        android:visible="false" />
+    <item
+        android:id="@+id/checklist"
+        android:title="CheckList"
+        android:visible="false" />
+    <item
+        android:id="@+id/todo"
+        android:title="To do List"
+        android:visible="false" />
+    <item
+        android:id="@+id/near_me"
+        android:title="Near Me"
+        android:visible="false" />
+    <item
+        android:id="@+id/near_by"
+        android:title=""
+        app:showAsAction="always"
+        android:visible="true"
+        android:icon="@drawable/nearme_img" />
+
+</menu>
+
