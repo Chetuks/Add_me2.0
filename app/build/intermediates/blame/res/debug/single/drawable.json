@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cardshape_reg_spinner.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\cardshape_reg_spinner.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doublecolor_otp.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\doublecolor_otp.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_on.png",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\LikeButton-0.2.3.aar\\9e182b029090fc9f81b4b9982dc76321\\res\\drawable\\thumb_on.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_input_background.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\login_input_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_img.jpg",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\background_img.jpg"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checklist_img.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\checklist_img.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\light_arrow_img.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\light_arrow_img.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addme_img.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\addme_img.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_background.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\login_btn_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\neutrinos_footer_new.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\neutrinos_footer_new.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_progress_bar.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navimg.jpg",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\navimg.jpg"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wishlist.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\wishlist.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subthree.jpg",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\subthree.jpg"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\neutrinos_footer.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\neutrinos_footer.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\all.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sms.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\sms.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cardshape_reg.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\cardshape_reg.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cardshape.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\cardshape.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setalarm_img.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\setalarm_img.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_background.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\custom_progress_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_background_double.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\login_btn_background_double.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinnernew.gif",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\spinnernew.gif"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\rounded.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_background_otp_new.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\login_btn_background_otp_new.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customer_img.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\customer_img.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nearby_google.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\nearby_google.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_page_footer.jpg",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\home_page_footer.jpg"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emptynew.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\emptynew.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addme.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\addme.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nearme_img.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\nearme_img.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images.jpeg",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\images.jpeg"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favouriteicon.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\favouriteicon.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homepage.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\homepage.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star_on.png",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\LikeButton-0.2.3.aar\\9e182b029090fc9f81b4b9982dc76321\\res\\drawable\\star_on.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_off.png",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\LikeButton-0.2.3.aar\\9e182b029090fc9f81b4b9982dc76321\\res\\drawable\\heart_off.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_background_otp.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\login_btn_background_otp.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_spinner.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\border_spinner.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\29d7f1a75bde4816de75121faffd6a3b\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\todolist_img.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\todolist_img.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_on.png",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\LikeButton-0.2.3.aar\\9e182b029090fc9f81b4b9982dc76321\\res\\drawable\\heart_on.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_background_new.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\login_btn_background_new.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star_off.png",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\LikeButton-0.2.3.aar\\9e182b029090fc9f81b4b9982dc76321\\res\\drawable\\star_off.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emptyimgnew.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\emptyimgnew.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whiteback.jpg",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\whiteback.jpg"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_background.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xbtn.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\xbtn.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downarrow.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_off.png",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\LikeButton-0.2.3.aar\\9e182b029090fc9f81b4b9982dc76321\\res\\drawable\\thumb_off.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search1.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\search1.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_shape.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\progress_shape.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doublecolor.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\doublecolor.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_img.png",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable\\settings_img.png"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    }
+]

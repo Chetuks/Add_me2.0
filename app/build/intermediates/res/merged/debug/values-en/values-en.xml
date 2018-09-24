@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Add Me</string>
+    <string name="btnRegistrationText">Registration</string>
+    <string name="cityMandatoryText">City/Village name is mandatory</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="dateofbirthMandatoryText">Date of birth is mandatory</string>
+    <string name="dateofbirthmandatory">Date of birth mandatory</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="enter_your_details">Enter Your Details</string>
+    <string name="female">Female</string>
+    <string name="gendermandatory">Selecting gender is mandatory</string>
+    <string name="male">Male</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="no_internet">No Internet</string>
+    <string name="phoneMandatoryText">phone number is mandatory</string>
+    <string name="phoneMandatoryTextlength">phone number must be 10 digit</string>
+    <string name="place">Place</string>
+    <string name="save">Delete</string>
+    <string name="select_date_of_birth">Select date of birth</string>
+    <string name="select_gender">Select gender</string>
+    <string name="select_nationality">Select nationality</string>
+    <string name="test"/>
+    <string name="toolbarTitle">Ananda Guruji</string>
+    <string name="universalPassword">test</string>
+    <string name="universalUsername">test@liferay.com</string>
+    <string name="usernameMandatoryText">Name is mandatory</string>
+</resources>

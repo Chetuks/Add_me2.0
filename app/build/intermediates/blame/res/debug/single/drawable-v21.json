@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\dmax_spots_spot.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\spots-dialog-1.1.aar\\f79e095cd9f4e1a699b1133ad8fde48d\\res\\drawable-v21\\dmax_spots_spot.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    }
+]

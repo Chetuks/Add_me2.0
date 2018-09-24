@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="width_buttons_next_prev">150dp</dimen>
+    <dimen name="height_buttons_next_prev">50dp</dimen>
+
+    <dimen name="login_margin">60dp</dimen>
+    <dimen name="login_account_text">14sp</dimen>
+    <dimen name="fb_btn">10dp</dimen>
+    <dimen name="create_margin">70dp</dimen>
+    <dimen name="create_margin_email">60dp</dimen>
+    <dimen name="enter_date">15dp</dimen>
+    <dimen name="app_sixteen_sp">16sp</dimen>
+    <dimen name="app_two_hundared">200dp</dimen>
+    <dimen name="app_one_eighty">180dp</dimen>
+    <dimen name="one_hundred">100dp</dimen>
+
+    <!-- New Flow  -->
+
+    <dimen name="login_view_height">60dp</dimen>
+
+    <dimen name="continue_btn_padding">40dp</dimen>
+    <dimen name="term_text_margin">70dp</dimen>
+    <dimen name="add_member_margin">25dp</dimen>
+    <dimen name="edt_right_margin">45dp</dimen>
+    <dimen name="edt_rl_padding">15dp</dimen>
+    <dimen name="edt_tb_padding">10dp</dimen>
+
+    <!-- New Dimensions -->
+    <dimen name="login_img_to_text">25dp</dimen>
+    <dimen name="login_text_to_select_country_edt">45dp</dimen>
+    <dimen name="select_country_edt_to_phone_edt">20dp</dimen>
+    <dimen name="btn_to_terms">20dp</dimen>
+    <dimen name="bottom_to_terms">14dp</dimen>
+    <dimen name="edit_margin">53dp</dimen>
+    <dimen name="login_edit_padding">5dp</dimen>
+    <dimen name="us_text_size">40sp</dimen>
+    <dimen name="login_edit_view_padding">5dp</dimen>
+    <dimen name="login_edt_text_size">15sp</dimen>
+    <dimen name="text_to_input">15dp</dimen>
+    <dimen name="back_text" >14sp</dimen>
+    <dimen name="reminder_padding">30dp</dimen>
+    <dimen name="reminder_text_size">16sp</dimen>
+    <dimen name="clock_size">160dp</dimen>
+    <dimen name="one_fifty_dp">150dp</dimen>
+    <dimen name="app_eighty">80dp</dimen>
+    <dimen name="calendarHeight">230dp</dimen>
+    <dimen name="calendarText">14sp</dimen>
+    <dimen name="forty_sp">40sp</dimen>
+    <dimen name="toolbarTitleTextSize">18sp</dimen>
+    <dimen name="app_fifty_dp">50dp</dimen>
+    <dimen name="three_hundred_dp">280dp</dimen>
+
+    <dimen name="reg_text">16sp</dimen>
+    <dimen name="reg_logo">40dp</dimen>
+
+
+</resources>

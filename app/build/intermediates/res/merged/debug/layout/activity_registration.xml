@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="neutrinos.addme.activity.RegistrationActivity">
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/progress_shape"
+        android:indeterminateDrawable="@drawable/custom_progress_background"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/footer"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="vertical"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.3"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:src="@drawable/logo" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1.7"
+            android:orientation="vertical">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingBottom="@dimen/btn_to_terms"
+                    android:paddingLeft="@dimen/edt_tb_padding"
+                    android:paddingRight="@dimen/edt_tb_padding"
+                    android:paddingTop="10dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/login_input_background"
+                        android:orientation="vertical">
+                        <Spinner
+                            android:id="@+id/spinner"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/reminder_padding"
+                            android:fontFamily="@font/open_sans_semibold"
+                            android:paddingEnd="5dp"
+                            android:layout_marginStart="10dp" />
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+
+                        android:orientation="vertical">
+
+                       <!-- <android.support.design.widget.TextInputLayout
+                            android:id="@+id/personname_hint"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="8dp"
+                            android:layout_marginBottom="8dp">-->
+                        <EditText
+                            android:id="@+id/personName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:fontFamily="@font/open_sans_semibold"
+                            android:hint="@string/name"
+                            android:paddingBottom="5dp"
+                            android:paddingEnd="5dp"
+                            android:paddingStart="15dp"
+                            android:paddingTop="5dp"
+                            android:singleLine="true"
+                            android:background="@drawable/login_input_background"
+                            android:textSize="@dimen/calendarText"
+                            android:inputType="text" />
+                      <!--  </android.support.design.widget.TextInputLayout>-->
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical">
+
+                        <Button
+                            android:id="@+id/dateofbirth"
+                            android:layout_width="match_parent"
+                            android:layout_height="30dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/login_input_background"
+                            android:fontFamily="@font/open_sans_semibold"
+                            android:gravity="start"
+                            android:hint="@string/select_date_of_birth"
+                            android:nextFocusForward="@+id/phoneNumber"
+                            android:paddingBottom="5dp"
+                            android:paddingLeft="15dp"
+                            android:paddingRight="5dp"
+                            android:paddingTop="5dp"
+                            android:textSize="@dimen/calendarText" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/login_input_background"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <Spinner
+                            android:id="@+id/mobile_spinner"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.6"
+                            android:paddingEnd="5dp"
+                            android:paddingStart="10dp" />
+
+                        <EditText
+                            android:id="@+id/phoneNumber"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1.4"
+                            android:background="@color/transparent"
+                            android:fontFamily="@font/open_sans_semibold"
+                            android:hint="@string/mobile_number"
+                            android:inputType="phone"
+                            android:maxLength="10"
+                            android:nextFocusForward="@+id/gender"
+                            android:padding="5dp"
+                            android:layout_marginStart="10dp"
+                            android:singleLine="true"
+                            android:textSize="@dimen/calendarText" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/gender"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/selectgender_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginEnd="5dp"
+                            android:layout_marginStart="15dp"
+                            android:layout_marginTop="5dp"
+                            android:fontFamily="@font/open_sans_semibold"
+                            android:text="@string/select_gender"
+                            android:textSize="@dimen/calendarText" />
+
+                        <RadioGroup
+                            android:id="@+id/gender_id"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingStart="8dp"
+                            android:paddingEnd="5dp"
+                            android:background="@drawable/login_input_background"
+                            android:nextFocusForward="@+id/phoneNumber"
+                            android:orientation="horizontal"
+                            android:weightSum="2">
+
+                            <RadioButton
+                                android:id="@+id/male"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:fontFamily="@font/open_sans_semibold"
+                                android:text="@string/male"
+                                android:textSize="15sp" />
+
+                            <RadioButton
+                                android:id="@+id/female"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:fontFamily="@font/open_sans_semibold"
+                                android:text="@string/female"
+                                android:textSize="15sp" />
+                        </RadioGroup>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/nationality_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginEnd="5dp"
+                            android:layout_marginStart="15dp"
+                            android:layout_marginTop="5dp"
+                            android:fontFamily="@font/open_sans_semibold"
+                            android:text="@string/select_nationality"
+                            android:textSize="@dimen/calendarText" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/login_input_background">
+
+                            <Spinner
+                                android:id="@+id/nationality_spinner"
+                                android:layout_width="match_parent"
+                                android:paddingStart="8dp"
+                                android:paddingEnd="5dp"
+                                android:layout_height="30dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical">
+
+                        <EditText
+                            android:id="@+id/cityName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/login_input_background"
+                            android:fontFamily="@font/open_sans_semibold"
+                            android:hint="@string/place"
+                            android:nextFocusForward="@+id/btnRegistartion"
+                            android:paddingBottom="5dp"
+                            android:paddingEnd="5dp"
+                            android:paddingStart="15dp"
+                            android:paddingTop="5dp"
+                            android:singleLine="true"
+                            android:maxLength="25"
+                            android:textSize="@dimen/calendarText" />
+
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/btnRegistartion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="30dp"
+                        android:background="@drawable/login_btn_background"
+                        android:fontFamily="@font/open_sans_semibold"
+                        android:paddingLeft="@dimen/reminder_padding"
+                        android:paddingRight="@dimen/reminder_padding"
+                        android:text="@string/btnRegistrationText"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/app_eighteen_sp" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/home_page_footer"
+        android:padding="10dp" />
+</RelativeLayout>

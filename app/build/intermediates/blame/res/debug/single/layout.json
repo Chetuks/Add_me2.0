@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favourite2.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_favourite2.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snippet_history_item.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\snippet_history_item.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\maincategorylayout.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\maincategorylayout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favourite.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_favourite.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favourite_inflator.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\favourite_inflator.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sub_category_list.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_sub_category_list.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favourites_adapter.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\favourites_adapter.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_list.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_category_list.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details_category_list.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_details_category_list.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nearbyinflator.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\nearbyinflator.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_side.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\adapter_side.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home_page.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\app_bar_home_page.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sub_check_list.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\sub_check_list.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchlayout.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\searchlayout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main2.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dash_board.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_dash_board.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selected.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_selected.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_near_by.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_new_near_by.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\edit.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_progress_window.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\ProgressWindow_Android-0.0.2.aar\\555336edc50abb2ce37b67c6d0ac7abf\\res\\layout\\view_progress_window.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_reminder_toolbar.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\add_reminder_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checklist_adapter.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\checklist_adapter.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_page.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\categorygridadapter.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\categorygridadapter.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\registration_toolbar.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\registration_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hot_searchlayout.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\hot_searchlayout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_to_do_list.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_to_do_list.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newchecklist_activity_main.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\newchecklist_activity_main.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home_page.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\content_home_page.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wishlist_adapter.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\wishlist_adapter.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_profile.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_customer_profile.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sortedlayout.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\sortedlayout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nearby.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_nearby.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\categorydashboard_main.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\categorydashboard_main.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fav_wishlist.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_fav_wishlist.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offers.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_offers.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home_page.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\nav_header_home_page.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_layout.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\custom_layout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dmax_spots_dialog.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\spots-dialog-1.1.aar\\f79e095cd9f4e1a699b1133ad8fde48d\\res\\layout\\dmax_spots_dialog.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\near_me_adapter.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\near_me_adapter.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sub_category_adapter.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\sub_category_adapter.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_checklist.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_checklist.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_premium_content.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_premium_content.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_anand_guruji_alaram.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_set_anand_guruji_alaram.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_main.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\dashboard_main.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\602040579c128a596d49d476a8155dc6\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_listitem.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\layout_listitem.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_search.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\list_item_search.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favourites_adapter_category.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\favourites_adapter_category.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\likeview.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\LikeButton-0.2.3.aar\\9e182b029090fc9f81b4b9982dc76321\\res\\layout\\likeview.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\afc5e615bf372ff6c32d1ad39d1770b4\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_adapter.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\detail_adapter.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wishlist.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\activity_wishlist.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\be1c03b779fcfd1085c08ce150a9cec7\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout\\check_list_main.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout\\check_list_main.xml"
+    }
+]

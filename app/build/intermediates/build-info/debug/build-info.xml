@@ -1,44 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+    abi="armeabi-v7a,armeabi"
     api-level="25"
-    build-mode="COLD"
+    build-mode="FULL"
+    density="xxhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1537442693603"
+    timestamp="1537595613285"
     token="-492383217965824134"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="26588" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="2650" />
     <task
         name="verifier"
-        duration="0" />
+        duration="354" />
+
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Selection\Add_me_OneZero\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1537438485568"
+        timestamp="1537595613285"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
         <artifact
             location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -50,39 +98,8 @@
             location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
+            location="D:\Selection\Add_me_OneZero\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="IMPLEMENTED_INTERFACES_CHANGE"
-        timestamp="1537441775291"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1537442586261"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Selection\Add_me_OneZero\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1537442693603"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

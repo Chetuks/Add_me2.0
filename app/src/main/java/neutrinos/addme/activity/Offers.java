@@ -4,15 +4,18 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
+import android.net.Uri;
 import android.os.Bundle;
 import android.provider.Settings;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Base64;
 import android.util.Log;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.widget.VideoView;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
@@ -40,6 +43,9 @@ import neutrinos.addme.utilities.Logger;
 public class Offers extends AppCompatActivity {
     GridModelClass gridModelClass;
     ProgressDialog newdialog;
+    VideoView video;
+    //String video_url = "http://file2.video9.in/english/movie/2014/x-men-_days_of_future_past/X-Men-%20Days%20of%20Future%20Past%20Trailer%20-%20[Webmusic.IN].3gp";
+    String video_url = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,11 +56,18 @@ public class Offers extends AppCompatActivity {
         TextView organizationName=findViewById(R.id.organization_offers_name);
         TextView offercode=findViewById(R.id.offer_code);
         LikeButton offerLikebtn=findViewById(R.id.offer_like_btn);
+        video = (VideoView) findViewById(R.id.video_view);
         newdialog = new ProgressDialog(Offers.this);
         Objects.requireNonNull(newdialog.getWindow()).setBackgroundDrawable(new ColorDrawable(Color.LTGRAY));
         newdialog.setMessage("Loading please wait....");
         newdialog.setCancelable(false);
         newdialog.show();
+        offerimage.setVisibility(View.GONE);
+        video.setVisibility(View.VISIBLE);
+        //Uri uri = Uri.parse(video_url);
+        Uri uri = Uri.parse("android.resource://neutrinos.anandaguruji/" + R.raw.videoplayback);
+        video.setVideoURI(uri);
+        video.start();
         Intent intent = this.getIntent();
         Bundle bundle = intent.getExtras();
         if (bundle != null) {

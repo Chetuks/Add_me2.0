@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\archivo_black.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\archivo_black.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\source_sans_pro_extralight.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\source_sans_pro_extralight.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\yantramanav_medium.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\yantramanav_medium.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\galdeano.ttf",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\galdeano.ttf"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\source_sans_pro.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\source_sans_pro.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\alice.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\alice.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\yantramanav.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\yantramanav.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\open_sans_semibold.ttf",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\open_sans_semibold.ttf"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\font\\yantramanav_light.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\font\\yantramanav_light.xml"
+    }
+]

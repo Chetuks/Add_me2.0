@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Add Me</string>
+    <string name="toolbarTitle">ಆಡ್ ಮಿ </string>
+    <string name="btnRegistrationText">ನೋಂದಣಿ </string>
+    <string name="usernameMandatoryText">ಹೆಸರು ಕಡ್ಡಾಯವಾಗಿದೆ </string>
+    <string name="cityMandatoryText">ನಗರ/ ಗ್ರಾಮದ  ಕಡ್ಡಾಯವಾಗಿದೆ  </string>
+    <string name="phoneMandatoryText">ದೂರವಾಣಿ ಸಂಖ್ಯೆ ಕಡ್ಡಾಯವಾಗಿದೆ  </string>
+    <string name="no_internet">ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ </string>
+    <string name="universalUsername">test@liferay.com</string>
+    <string name="universalPassword">test</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="enter_your_details">ನಿಮ್ಮ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="name">ಹೆಸರು</string>
+    <string name="mobile_number">ಮೊಬೈಲ್ ನಂಬರ</string>
+    <string name="place">ಸ್ಥಳ</string>
+    <string name="select_gender">ಲಿಂಗ ಆಯ್ಕೆ</string>
+    <string name="select_date_of_birth">ಜನನ ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="save">Delete</string>
+    <string name="select_nationality">Select nationality</string>
+    <string name="test" />
+</resources>

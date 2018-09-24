@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Add Me</string>
+    <string name="toolbarTitle">Add Me</string>
+    <string name="btnRegistrationText">Registration</string>
+    <string name="usernameMandatoryText">Name is mandatory</string>
+    <string name="cityMandatoryText">City/Village name is mandatory</string>
+    <string name="dateofbirthmandatory">Date of birth mandatory</string>
+    <string name="phoneMandatoryText">phone number is mandatory</string>
+    <string name="phoneMandatoryTextlength">phone number must be 10 digit</string>
+    <string name="gendermandatory">Selecting gender is mandatory</string>
+    <string name="dateofbirthMandatoryText">Date of birth is mandatory</string>
+    <string name="no_internet">No Internet</string>
+    <string name="universalUsername">test@liferay.com</string>
+    <string name="universalPassword">test</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="enter_your_details">Enter Your Details</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="place">Place</string>
+    <string name="client_s_logo_place_holder">CLIENT\'S LOGO PLACE HOLDER</string>
+    <string name="enter_item_here">Enter item here</string>
+
+    <string-array name="occurence">
+        <item>Once</item>
+        <item>Weekly</item>
+    </string-array>
+
+
+    <string-array name="pref_alarm_play_time_entries">
+        <item>10 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+    </string-array>
+
+    <string-array name="pref_alarm_play_time_values">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="ItemName">Item Name is mandatory</string>
+    <string name="ItemQuantity">Quantity is mandatory</string>
+    <string name="title_activity_home_page">HomePage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="show_map">Show Map</string>
+    <string name="select_gender">Select gender</string>
+    <string name="select_date_of_birth">Select date of birth</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="save">Delete</string>
+    <string name="select_nationality">Select nationality</string>
+    <string name="test" />
+
+
+</resources>

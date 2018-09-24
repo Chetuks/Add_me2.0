@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="neutrinos.anandaguruji"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="neutrinos.anandaguruji.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="neutrinos.anandaguruji.permission.C2D_MESSAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/addme_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/addme_logo"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="neutrinos.addme.activity.SplashScreen"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+          <activity
+          android:name=".DashBoardActivity"
+          android:configChanges="orientation|screenSize"
+          android:theme="@style/Theme.AppCompat.NoActionBar"
+          android:windowSoftInputMode="stateAlwaysHidden" />
+        -->
+        <receiver android:name="neutrinos.addme.Myreceiver" >
+            <intent-filter>
+                <action android:name="neutrinos.addme.CUSTOM_INTENT" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="neutrinos.addme.activity.RegistrationActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="neutrinos.addme.alarmclass.EditAlarm"
+            android:label="Edit alarm" />
+        <activity
+            android:name="neutrinos.addme.activity.MainActivity"
+            android:label="Alarm Tone" />
+        <activity
+            android:name="neutrinos.addme.alarmclass.AlarmNotification"
+            android:label="Alarm notification" />
+        <activity
+            android:name="neutrinos.addme.PreferenceClass.Preferences"
+            android:label="Preferences" />
+        <activity
+            android:name="neutrinos.addme.utilities.About"
+            android:label="About" />
+        <activity
+            android:name="neutrinos.addme.alarmclass.AlarmMe"
+            android:label="Alarm"
+            android:theme="@style/Theme.AppCompat.DayNight.Dialog.Alert" />
+
+        <receiver
+            android:name="neutrinos.addme.alarmclass.AlarmReceiver"
+            android:process=":remote" />
+        <receiver android:name="neutrinos.addme.utilities.BootCompletedReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="neutrinos.addme.MyFirebaseInstanceIDService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="neutrinos.addme.fcm.MyFirebaseMessagingService"
+            android:exported="false"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <!--
+         Set custom default icon. This is used when no icon is set for incoming notification messages.
+         See README(https://goo.gl/l4GJaQ) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/ic_launcher" />
+        <!--
+             Set color used with incoming notification messages. This is used when no color is set for the incoming
+             notification message. See README(https://goo.gl/6BKBk7) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorAccent" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="@string/default_notification_channel_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.gms.analytics.globalConfigResource"
+            android:resource="@xml/app_tracker" />
+
+        <service android:name="neutrinos.addme.fcm.MyFirebaseInstanceIDService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="neutrinos.addme.PreferenceClass.IsPressedReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="IsPressedReceiver" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="neutrinos.addme.activity.NewCheckListActivity"
+            android:label="ToDoList" />
+        <activity
+            android:name="neutrinos.addme.activity.CustomerProfile"
+            android:label="Profile" />
+        <activity
+            android:name="neutrinos.addme.activity.OtpActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="neutrinos.addme.activity.Checklist"
+            android:label="Checklist"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="neutrinos.addme.activity.ToDoListActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!--
+            <activity
+            android:name="neutrinos.anandaguruji.Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        -->
+        <activity android:name="neutrinos.addme.activity.CategoryListActivity" />
+        <activity
+            android:name="neutrinos.addme.activity.HomePage"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="neutrinos.addme.activity.SubCategoryListActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
+        <activity android:name="neutrinos.addme.activity.DetailsCategoryListActivity" />
+        <activity android:name="neutrinos.addme.activity.SelectedCategoryActivity" />
+        <activity android:name="neutrinos.addme.activity.MapsActivity" />
+        <activity
+            android:name="neutrinos.addme.activity.CategoryDashboardActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name="neutrinos.addme.activity.SearchActivity" />
+        <activity
+            android:name="neutrinos.addme.activity.Main2Activity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name="neutrinos.addme.activity.Offers" />
+        <activity android:name="neutrinos.addme.activity.PremiumContent" />
+        <activity android:name="neutrinos.addme.activity.NearbyActivity" />
+
+        <receiver
+            android:name="neutrinos.addme.utilities.SmsReceivers"
+            android:enabled="true"
+            android:permission="android.permission.BROADCAST_SMS" >
+            <intent-filter android:priority="5822" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBNA4tmO8LFYiF41NeAvP2h4PgCIR6cZ7g" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name="neutrinos.addme.activity.NewNearByActivity" />
+        <activity
+            android:name="neutrinos.addme.activity.WishlistActivity"
+            android:label="Wishlist" />
+        <activity
+            android:name="neutrinos.addme.activity.FavouriteActivity"
+            android:label="Favourite" />
+        <activity android:name="neutrinos.addme.activity.FavWishlistActivity" />
+        <activity android:name="neutrinos.addme.activity.NearByNext" />
+        <!--
+             FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="neutrinos.anandaguruji" />
+            </intent-filter>
+        </receiver>
+        <!--
+             FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="neutrinos.anandaguruji.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="neutrinos.anandaguruji.com.squareup.picasso"
+            android:exported="false" />
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="neutrinos.anandaguruji.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

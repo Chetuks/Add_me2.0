@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Add Me</string>
+    <string name="toolbarTitle">أضفني</string>
+    <string name="btnRegistrationText">التسجيل</string>
+    <string name="usernameMandatoryText">الاسم إلزامي</string>
+    <string name="cityMandatoryText">اسم المدينة / القرية إلزامي</string>
+    <string name="dateofbirthMandatoryText">تاريخ الميلاد إلزامي</string>
+    <string name="phoneMandatoryText">رقم الهاتف إلزامي</string>
+    <string name="phoneMandatoryTextlength">رقم الهاتف إلزامي</string>
+    <string name="gendermandatory">Selecting gender is mandatory</string>
+    <string name="no_internet">لا انترنت</string>
+    <string name="universalUsername">test@liferay.com</string>
+    <string name="universalPassword">test</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="enter_your_details"> أدخل تفاصيلك </string>
+    <string name="name">اسم</string>
+    <string name="mobile_number">رقم الهاتف</string>
+    <string name="place">مكان</string>
+    <string name="select_gender">حدد نوع الجنس</string>
+    <string name="select_date_of_birth">حدد تاريخ الميلاد</string>
+    <string name="date_of_birth">تاريخ الولادة</string>
+    <string name="male">الذكر</string>
+    <string name="female">إناثا</string>
+    <string name="dashboard">لوحة القيادة</string>
+    <string name="save">حفظ</string>
+    <string name="dateofbirthmandatory">تاريخ الميلاد إلزامي</string>
+    <string name="select_nationality">تحديد جنسية</string>
+    <string name="test" />
+
+</resources>

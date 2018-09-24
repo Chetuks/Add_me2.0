@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\otp_validation.xml",
+        "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\layout-v21\\otp_validation.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Chethan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dcf5369c48ff366284b002dac7a28f70\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

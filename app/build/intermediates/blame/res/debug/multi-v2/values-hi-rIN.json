@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\res\\merged\\debug\\values-hi-rIN\\values-hi-rIN.xml",
+            "map": [
+                {
+                    "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\values-hi-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,102",
+                        "endColumns": "43,37",
+                        "endOffsets": "96,135"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,37",
+                        "endOffsets": "94,132"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Selection\\Add_me_OneZero\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi-rIN\\values-hi-rIN.xml",
+            "map": [
+                {
+                    "source": "D:\\Selection\\Add_me_OneZero\\app\\src\\main\\res\\values-hi-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,102",
+                        "endColumns": "43,37",
+                        "endOffsets": "96,135"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,37",
+                        "endOffsets": "94,132"
+                    }
+                }
+            ]
+        }
+    ]
+}

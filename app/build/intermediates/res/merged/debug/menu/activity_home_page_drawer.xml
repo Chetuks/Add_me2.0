@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.HomePage"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/new_dashboard"
+            android:icon="@drawable/homepage"
+            android:title="Home"
+            android:visible="true" />
+        <item
+            android:id="@+id/customer_profile_id"
+            android:icon="@drawable/customer_img"
+            android:title="Profile" />
+        <item
+            android:id="@+id/check_list_id"
+            android:icon="@drawable/checklist_img"
+            android:title="CheckList" />
+        <item
+            android:id="@+id/set_alaram_id"
+            android:icon="@drawable/setalarm_img"
+            android:title="Set Alarm"
+            android:visible="true" />
+      <!--  <item
+            android:id="@+id/near_me"
+            android:icon="@drawable/addme_img"
+            android:title="Add Me Ads"
+            android:visible="false" />-->
+        <item
+            android:id="@+id/wishlist_navigation_id"
+            android:icon="@drawable/wishlist"
+            android:title="Wishlist"
+            android:visible="true" />
+        <item
+            android:id="@+id/favourite_navigation_id"
+            android:icon="@drawable/favouriteicon"
+            android:title="Favourite"
+            android:visible="true" />
+    </group>
+
+    <item
+        android:id="@+id/configuration"
+        android:title="Configuration"
+        android:visible="true">
+        <menu>
+            <item
+                android:id="@+id/settings_id"
+                android:icon="@drawable/settings_img"
+                android:title="Settings"
+                android:visible="true" />
+        </menu>
+    </item>
+
+</menu>
